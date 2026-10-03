@@ -1,39 +1,38 @@
-14
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>
   <title>shumeipai</title>
   <link>https://shumeipai.nxez.com/</link>
   <description>Scraped feed provided by aaronsw.com</description>
   <item>
-    <title>树莓派5 + Ubuntu 平替桌面 PC 工作和玩游戏的评测</title>
-    <link>https://shumeipai.nxez.com/2023/11/02/can-the-new-raspberry-pi-5-really-replace-your-desktop-pc.html</link>
+    <title>树莓派 4 和树莓派 5 的 2GB 内存型号售价上涨</title>
+    <link>https://shumeipai.nxez.com/2026/10/02/price-increases-for-2gb-raspberry-pi-4-and-raspberry-pi-5.html</link>
   </item>
   <item>
-    <title>ARM 投资树莓派，进一步巩固双方合作关系</title>
-    <link>https://shumeipai.nxez.com/2023/11/02/arm-invests-in-raspberry-pi.html</link>
+    <title>巴克内尔大学 Baja 赛车数据采集（DAQ）挑战赛</title>
+    <link>https://shumeipai.nxez.com/2026/08/16/bucknell-university-baja-sae-data-acquisition-daq-challenge.html</link>
   </item>
   <item>
-    <title>树莓派5 软件环境进化史：花了 11 年和 7 代硬件</title>
-    <link>https://shumeipai.nxez.com/2023/10/17/optimising-raspberry-pi-5s-software-environment.html</link>
+    <title>Raspberry Pi OS  6.2 的安全更新</title>
+    <link>https://shumeipai.nxez.com/2026/05/06/raspberry-pi-os-62-security-update.html</link>
   </item>
   <item>
-    <title>如何用工业树莓派和 MQTT 平台打通 OT 和 IT</title>
-    <link>https://shumeipai.nxez.com/2023/10/16/how-to-connect-ot-and-it-with-the-industrial-raspberry-pi-and-mqtt-platform.html</link>
+    <title>内存成本七倍上涨，树莓派调价同时推出 3G 内存版以降低用户负担</title>
+    <link>https://shumeipai.nxez.com/2026/04/01/a-new-3gb-raspberry-pi-4-and-more-memory-driven-price-increases.html</link>
   </item>
   <item>
-    <title>MBO：基于树莓派、ChatGPT 的桌面机器人</title>
-    <link>https://shumeipai.nxez.com/2023/10/08/bmo-ai-the-companion-robot-with-artificial-intelligence.html</link>
+    <title>树莓派上运行 OpenClaw 开启 AI agent</title>
+    <link>https://shumeipai.nxez.com/2026/03/08/turn-your-raspberry-pi-into-an-ai-agent-with-openclaw.html</link>
   </item>
   <item>
-    <title>Maker Faire 深圳 2023，树莓派官方面对面</title>
-    <link>https://shumeipai.nxez.com/2023/10/08/maker-faire-shenzhen-2023.html</link>
+    <title>为树莓派 5 自定义开机画面的方法</title>
+    <link>https://shumeipai.nxez.com/2026/01/18/how-to-customize-the-boot-screen-for-raspberry-pi-5.html</link>
   </item>
   <item>
-    <title>树莓派创始人介绍树莓派5 驱动芯片 RP1 的来头</title>
-    <link>https://shumeipai.nxez.com/2023/10/07/introducing-rp1-the-silicon-driving-raspberry-pi-5-designed-in-house-at-raspberry-pi.html</link>
+    <title>又又涨价了，「理财产品」树莓派有点无奈</title>
+    <link>https://shumeipai.nxez.com/2025/12/04/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises.html</link>
   </item>
   <item>
-    <title>树莓派 5 评测：Maker 们的新宠</title>
-    <link>https://shumeipai.nxez.com/2023/09/29/raspberry-pi-5-review-a-new-standard-for-makers.html</link>
+    <title>树莓派镜像工具 Raspberry Pi Imager 2.0 发布</title>
+    <link>https://shumeipai.nxez.com/2025/11/26/raspberry-pi-imager-v2.html</link>
   </item>
   <item>
     <title></title>
